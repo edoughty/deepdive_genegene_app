@@ -1,0 +1,1201 @@
+Domain	Description
+14_3_3	14-3-3 homologues
+35EXOc	3'-5' exonuclease
+4.1m	putative band 4.1 homologues' binding motif
+53EXOc	5'-3' exonuclease
+A1pp	Appr-1"-p processing enzyme
+A4_EXTRA	amyloid A4
+A_amylase_inhib	Alpha amylase inhibitor
+AAA	ATPases associated with a variety of cellular activities
+AAA_PrkA	PrkA AAA domain
+AAI	Plant lipid transfer protein / seed storage protein / trypsin-alpha amylase inhibitor domain family
+Aamy	Alpha-amylase domain
+Aamy_C	
+AARP2CN	AARP2CN (NUC121) domain
+acidPPc	Acid phosphatase homologues
+ACR	ADAM Cysteine-Rich Domain
+ACTIN	Actin
+AD	Anticodon-binding domain
+Ad_cyc_g-alpha	Adenylate cyclase G-alpha binding domain
+ADEAMc	tRNA-specific and double-stranded RNA adenosine deaminase (RNA-specific editase)
+Adenylsucc_synt	Adenylosuccinate synthetase
+ADF	Actin depolymerisation factor/cofilin -like domains
+AdoHcyase	S-adenosyl-L-homocysteine hydrolase
+AdoHcyase_NAD	S-adenosyl-L-homocysteine hydrolase, NAD binding domain
+ADSL_C	Adenylosuccinate lyase C-terminus
+Aerolysin	Aerolysin toxin
+AFOR_N	Aldehyde ferredoxin oxidoreductase, N-terminal domain
+Agenet	Tudor-like domain present in plant sequences.
+Agglutinin	
+Agouti	Agouti protein
+AgrB	Accessory gene regulator B
+AgrD	Staphylococcal AgrD protein
+Agro_virD5	Agrobacterium VirD5 protein
+AGTRAP	Angiotensin II, type I receptor-associated protein
+Aha1_N	Activator of Hsp90 ATPase, N-terminal
+AHS1	Allophanate hydrolase subunit 1
+AHS2	Allophanate hydrolase subunit 2
+AICARFT_IMPCHas	AICARFT/IMPCHase bienzyme
+AIP3	Actin interacting protein 3
+AIRC	AIR carboxylase
+AKAP_110	A-kinase anchor protein 110 kDa
+Ala_racemase_C	Alanine racemase, C-terminal domain
+ALAD	Delta-aminolevulinic acid dehydratase
+AlaDh_PNT_C	Alanine dehydrogenase/PNT, C-terminal domain
+AlaDh_PNT_N	Alanine dehydrogenase/PNT, N-terminal domain
+ALBUMIN	serum albumin
+AlcB	Siderophore biosynthesis protein domain
+Ald_Xan_dh_C	Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+Aldolase_II	Class II Aldolase and Adducin N-terminal domain
+AlkA_N	AlkA N-terminal domain
+alkPPc	Alkaline phosphatase homologues
+Alpha-amyl_C2	Alpha-amylase C-terminal beta-sheet domain
+Alpha-L-AF_C	Alpha-L-arabinofuranosidase C-terminus
+Alpha-mann_mid	Alpha mannosidase, middle domain
+Alpha_adaptinC2	Adaptin C-terminal domain
+Alpha_kinase	Alpha-kinase family
+Alpha_L_fucos	Alpha-L-fucosidase
+Alpha_TIF	Alpha trans-inducing protein (Alpha-TIF)
+AMA-1	Apical membrane antigen 1
+Amb_all	
+Amb_V_allergen	Amb V Allergen
+Amelin	Ameloblastin precursor (Amelin)
+Amelogenin	
+Ami_2	
+Ami_3	
+AMOP	Adhesion-associated domain present in MUC4 and other proteins
+AMP_N	Aminopeptidase P, N-terminal domain
+AMPKBI	5'-AMP-activated protein kinase beta subunit, interation domain
+ANATO	Anaphylatoxin homologous domain
+ANK	ankyrin repeats
+ANTAR	
+ANX	Annexin repeats
+AP2	DNA-binding domain in plant proteins such as APETALA2 and EREBPs
+AP2Ec	AP endonuclease family 2
+APC2	Anaphase promoting complex (APC) subunit 2
+APPLE	APPLE domain
+AraC_E_bind	Bacterial transcription activator, effector binding domain
+ARF	ARF-like small GTPases; ARF, ADP-ribosylation factor
+Arfaptin	Arfaptin-like domain
+ArfGap	Putative GTP-ase activating proteins for the small GTPase, ARF
+Arg_tRNA_synt_N	Arginyl tRNA synthetase N terminal dom
+ARID	ARID/BRIGHT DNA binding domain
+ARM	Armadillo/beta-catenin-like repeats
+Arrestin_C	Arrestin (or S-antigen), C-terminal domain
+ASCH	
+Asparaginase	
+AT_hook	DNA binding domain with preference for A/T rich regions
+Autotransporter	Autotransporter beta-domain
+AWS	associated with SET domains
+AXH	domain in Ataxins and HMG containing proteins
+B12-binding_2	B12 binding domain
+B2-adapt-app_C	Beta2-adaptin appendage, C-terminal sub-domain
+B3	B3 DNA binding domain
+B3_4	B3/4 domain
+B41	Band 4.1 homologues
+B5	tRNA synthetase B5 domain
+B561	Cytochrome b-561 / ferric reductase transmembrane domain.
+B_lectin	Bulb-type mannose-specific lectin
+Bac_DnaA_C	Bacterial dnaA protein helix-turn-helix domain
+Bac_rhodopsin	Bacteriorhodopsin-like protein
+BACK	BTB And C-terminal Kelch
+BAF	Barrier to autointegration factor
+BAG	BAG domains, present in regulator of Hsp70 proteins
+BAH	Bromo adjacent homology domain
+BAR	
+BASIC	Basic domain in HLH proteins of MYOD family
+BATS	Biotin and Thiamin Synthesis associated domain
+BBC	B-Box C-terminal domain
+BBOX	B-Box-type zinc finger
+BCL	BCL (B-Cell lymphoma); contains BH1, BH2 regions
+BCS1_N	
+Beach	Beige/BEACH domain
+BEN	
+Bet_v_1	Pathogenesis-related protein Bet v I family
+Beta-Casp	Beta-Casp domain
+Beta-TrCP_D	D domain of beta-TrCP
+BetaGal_dom2	Beta-galactosidase, domain 2
+Bgal_small_N	Beta galactosidase small chain
+BH4	BH4 Bcl-2 homology region 4
+BHD_1	Rad4 beta-hairpin domain 1
+BHD_2	Rad4 beta-hairpin domain 2
+BHD_3	Rad4 beta-hairpin domain 3
+BHL	bacterial (prokaryotic) histone like domain
+BID_1	Bacterial Ig-like domain (group 1)
+BID_2	Bacterial Ig-like domain 2
+BING4CT	BING4CT (NUC141) domain
+Biotin_carb_C	Biotin carboxylase C-terminal domain
+BIR	Baculoviral inhibition of apoptosis protein repeat
+BLUF	Sensors of blue-light using FAD
+BMC	
+BON	bacterial OsmY and nodulation domain
+BOP1NT	BOP1NT (NUC169) domain
+BowB	Bowman-Birk type proteinase inhibitor
+BP28CT	BP28CT (NUC211) domain
+BPI1	BPI/LBP/CETP N-terminal domain
+BPI2	BPI/LBP/CETP C-terminal domain
+BRCT	breast cancer carboxy-terminal domain
+BRICHOS	
+BRIGHT	BRIGHT, ARID (A/T-rich interaction domain) domain
+Brix	
+BRK	domain in transcription and CHROMO domain helicases
+BRLZ	basic region leucin zipper
+Bro-N	BRO family, N-terminal domain
+BRO1	BRO1-like domain
+BROMO	bromo domain
+Brr6_like_C_C	Di-sulfide bridge nucleocytoplasmic transport domain
+BSD	domain in transcription factors and synapse-associated proteins
+BTAD	Bacterial transcriptional activator domain
+BTB	Broad-Complex, Tramtrack and Bric a brac
+BTD	Beta-trefoil DNA-binding domain
+btg1	tob/btg1 family
+BTK	Bruton's tyrosine kinase Cys-rich motif
+BTP	Bromodomain transcription factors and PHD domain containing proteins
+Btz	CASC3/Barentsz eIF4AIII binding
+BURP	
+c-SKI_SMAD_bind	c-SKI Smad4 binding domain
+C1	Protein kinase C conserved region 1 (C1) domains (Cysteine-rich domains)
+C1_4	TFIIH C1-like domain
+C1Q	Complement component C1q domain.
+C2	Protein kinase C conserved region 2 (CalB)
+C345C	Netrin C-terminal Domain
+C4	C-terminal tandem repeated domain in type 4 procollagens
+C6	
+C8	
+CA	Cadherin repeats.
+Ca_chan_IQ	Voltage gated calcium channel IQ domain
+Cache_2	
+CactinC_cactus	Cactus-binding C-terminus of cactin protein
+CAD	Domains present in proteins implicated in post-mortem DNA fragmentation
+CADG	Dystroglycan-type cadherin-like domains.
+Cadherin_pro	Cadherin prodomain like
+CALCITONIN	calcitonin
+calpain_III	
+Calx_beta	Domains in Na-Ca exchangers and integrin-beta4
+CaM_binding	Plant calmodulin-binding domain
+CaMBD	Calmodulin binding domain
+CAMSAP_CKK	Microtubule-binding calmodulin-regulated spectrin-associated
+Candida_ALS_N	Cell-wall agglutinin N-terminal ligand-sugar binding
+CAP10	Putative lipopolysaccharide-modifying enzyme.
+CAP_GLY	
+Carb_anhydrase	Eukaryotic-type carbonic anhydrase
+CARD	Caspase recruitment domain
+CarD_TRCF	CarD-like/TRCF domain
+CARP	Domain in CAPs (cyclase-associated proteins) and X-linked retinitis pigmentosa 2 gene product.
+CASc	Caspase, interleukin-1 beta converting enzyme (ICE) homologues
+CASH	Domain present in carbohydrate binding proteins and sugar hydrolses
+CAT	Chloramphenicol acetyltransferase
+CAT_RBD	CAT RNA binding domain
+Catalase	
+Cation_ATPase_N	Cation transporter/ATPase, N-terminus
+CBD_II	
+CBD_IV	Cellulose Binding Domain Type IV
+CBF	CCAAT-Binding transcription Factor
+CBM49	Carbohydrate binding domain CBM49
+CBM_10	Cellulose or protein binding domain
+CBM_2	Starch binding domain
+CBM_25	Carbohydrate binding domain
+CBM_3	Cellulose binding domain
+CBM_X	Putative carbohydrate binding domain
+CBS	Domain in cystathionine beta-synthase and other proteins.
+CCP	Domain abundant in complement control proteins; SUSHI repeat; short complement-like repeat (SCR)
+CDC37_C	Cdc37 C terminal domain
+CDC37_M	Cdc37 Hsp90 binding domain
+CDC37_N	Cdc37 N terminal kinase binding
+CDC48_2	Cell division protein 48 (CDC48) domain 2
+CDC48_N	Cell division protein 48 (CDC48) N-terminal domain
+Cdc6_C	CDC6, C terminal
+CDT1	DNA replication factor CDT1 like
+CENPB	Putative DNA-binding domain in centromere protein B, mouse jerky and transposases.
+CFEM	
+CG-1	
+Cg6151-P	Uncharacterized conserved protein CG6151-P
+CGGC	
+CH	Calponin homology domain
+CHAD	
+CHASE	
+CHASE2	
+CHB_HEX	Putative carbohydrate binding domain
+CheW	Two component signalling adaptor domain
+CHK	ZnF_C4 abd HLH domain containing kinases domain
+CHRD	A domain in the BMP inhibitor chordin and in microbial proteins.
+CHROMO	Chromatin organization modifier domain
+ChSh	Chromo Shadow Domain
+ChtBD1	Chitin binding domain
+ChtBD2	Chitin-binding domain type 2
+ChtBD3	Chitin-binding domain type 3
+ChW	Clostridial hydrophobic, with a conserved W residue, domain.
+CHZ	Histone chaperone domain CHZ
+Cir_N	N-terminal domain of CBF1 interacting co-repressor CIR
+Citrate_ly_lig	Citrate lyase ligase C-terminal domain
+CK_II_beta	Casein kinase II regulatory subunit
+CKS	Cyclin-dependent kinase regulatory subunit
+CLa	CLUSTERIN alpha chain
+CLb	CLUSTERIN Beta chain
+CLECT	C-type lectin (CTL) or carbohydrate-recognition domain (CRD)
+CLH	Clathrin heavy chain repeat homology
+CLIP	Clip or disulphide knot domain
+ClpB_D2-small	C-terminal, D2-small domain, of ClpB protein
+CM_2	Chorismate mutase type II
+CNH	Domain found in NIK1-like kinases, mouse citron and yeast ROM1, ROM2
+cNMP	Cyclic nucleotide-monophosphate binding domain
+CNX	Connexin homologues
+CO_deh_flav_C	CO dehydrogenase flavoprotein C-terminal domain
+CoA_binding	CoA binding domain
+CoA_trans	Coenzyme A transferase
+CobW_C	Cobalamin synthesis protein cobW C-terminal domain
+Cog4	COG4 transport protein
+COG6	Conserved oligomeric complex COG6
+Col_cuticle_N	Nematode cuticle collagen N-terminal domain
+COLFI	Fibrillar collagens C-terminal domain
+COLIPASE	Colipase
+Connexin_CCC	Gap junction channel protein cysteine-rich domain
+Copper-fist	
+CorC_HlyC	Transporter associated domain
+Costars	
+CP12	
+CpcD	CpcD/allophycocyanin linker domain
+CPDc	catalytic domain of ctd-like phosphatases
+Cpl-7	Cpl-7 lysozyme C-terminal domain
+Cpn10	Chaperonin 10 Kd subunit
+CPSase_L_D3	Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+CPSase_sm_chain	Carbamoyl-phosphate synthase small chain, CPSase domain
+CPSF73-100_C	
+CPW_WPC	
+CRA	CT11-RanBPM
+CRAL_TRIO_N	CRAL/TRIO, N-terminal domain
+CRF	corticotropin-releasing factor
+CRISPR_assoc	
+CRM1_C	CRM1 C terminal
+CRS1_YhbY	
+CSF2	Granulocyte-macrophage colony-simulating factor (GM-CSF)
+CSP	Cold shock protein domain
+CT	C-terminal cystine knot-like domain (CTCK)
+CTD	Spt5 C-terminal nonapeptide repeat binding Spt4
+CTLH	C-terminal to LisH motif.
+CTNS	Repeated motif present between transmembrane helices in cystinosin, yeast ERS1p, mannose-P-dolichol utilization defect 1, and other hypothetical proteins.
+Cu_FIST	Copper-Fist
+CUB	Domain first found in C1r, C1s, uEGF, and bone morphogenetic protein.
+CUE	Domain that may be involved in binding ubiquitin-conjugating enzymes (UBCs)
+CULLIN	Cullin
+Cullin_Nedd8	Cullin protein neddylation domain
+Cupin_1	Cupin
+CUT	
+Cutinase	
+CVNH	
+CW	
+cwf21	
+CXC	Tesmin/TSO1-like CXC domain
+CxxC_CXXC_SSSS	Putative regulatory protein
+CY	Cystatin-like domain
+Cyanate_lyase	Cyanate lyase C-terminal domain, Cyanate hydratase
+CYCc	Adenylyl- / guanylyl cyclase, catalytic domain
+CYCLIN	domain present in cyclins, TFIIB and Retinoblastoma
+CysPc	Calpain-like thiol protease family.
+Cyt-b5	Cytochrome b5-like Heme/Steroid binding domain
+CYTH	
+D-ser_dehydrat	Putative serine dehydratase domain
+D5_N	D5 N terminal like
+Dabb	Stress responsive A/B Barrel Domain
+DAGKa	Diacylglycerol kinase accessory domain (presumed)
+DAGKc	Diacylglycerol kinase catalytic domain (presumed)
+Dak1_2	
+Dak2	
+DALR_1	DALR anticodon binding domain
+DALR_2	
+DAX	Domain present in Dishevelled and axin
+DBB	Dof, BCAP, and BANK (DBB) motif
+DBC1	
+DBP10CT	DBP10CT (NUC160) domain
+DBR1	Lariat debranching enzyme, C-terminal domain
+DCD	
+DCP2	Dcp2, box A domain
+DCX	Domain in the Doublecortin (DCX) gene product
+DDE_Tnp_IS1595	ISXO2-like transposase domain
+dDENN	Domain always found downstream of DENN domain, found in a variety of signalling proteins
+DDHD	
+DDRGK	
+DDT	domain in different transcription and chromosome remodeling factors
+DEATH	DEATH domain, found in proteins involved in cell death (apoptosis).
+DED	Death effector domain
+DEFSN	Defensin/corticostatin family
+DELLA	Transcriptional regulator DELLA protein N terminal
+DENN	Domain found in a variety of signalling proteins, always encircled by uDENN and dDENN
+DeoC	DeoC/LacD family aldolase
+DeoRC	DeoR C terminal sensor domain
+DEP	Domain found in Dishevelled, Egl-10, and Pleckstrin
+DEXDc	DEAD-like helicases superfamily
+DEXDc2	
+DEXDc3	
+DHDPS	Dihydrodipicolinate synthetase family
+DHHA2	
+DIL	
+DIRP	
+DISIN	Homologues of snake disintegrins
+DKCLD	DKCLD (NUC011) domain
+DM	Doublesex DNA-binding motif
+DM10	Domains in hypothetical proteins in Drosophila, C. elegans and mammals. Occurs singly in some nucleoside diphosphate kinases.
+DM11	Domains in hypothetical proteins in Drosophila including 2 in CG15241 and CG9329.
+DM13	Domain present in fly proteins (CG14681, CG12492, CG6217), worm H06A10.1 and Arabidopsis thaliana MBG8.9.
+DM14	Repeats in fly CG4713, worm Y37H9A.3 and human FLJ20241.
+DM15	Tandem repeat in fly CG14066 (La related protein), human KIAA0731 and worm R144.7. Unknown function.
+DM16	Repeats in sea squirt COS41.4, worm R01H10.6, fly CG1126 etc.
+DM3	Zinc finger domain in CG10631, C. elegans LIN-15B and human P52rIPK.
+DM4_12	DM4/DM12 family of domains in Drosophila melanogaster proteins of unknown function.
+DM5	Domain of unknown function, currently peculiar to Drosophila.
+DM6	Cysteine-rich domain currently specific to Drosophila.
+DM7	Domain of unknown function in Drosophila CG15332, CG15333 and CG18293
+DM8	Repeats found in several Drosophila proteins.
+DM9	Repeats found in Drosophila proteins.
+DMAP_binding	DMAP1-binding Domain
+DnaG_DnaB_bind	DNA primase DnaG DnaB-binding
+DnaJ	DnaJ molecular chaperone homology domain
+DNaseIc	deoxyribonuclease I
+DoH	Possible catecholamine-binding domain present in a variety of eukaryotic proteins.
+DP	Transcription factor DP
+DPBB_1	Rare lipoprotein A (RlpA)-like double-psi beta-barrel
+Drf_FH3	Diaphanous FH3 Domain
+Drf_GBD	Diaphanous GTPase-binding Domain
+DRY_EERY	Alternative splicing regulator
+DSHCT	
+DSL	delta serrate ligand
+DSPc	Dual specificity phosphatase, catalytic domain
+DSRM	Double-stranded RNA binding motif
+DSX_dimer	Doublesex dimerisation domain
+DTW	
+DUF1041	Domain of Unknown Function (DUF1041)
+DUF1086	Domain of Unknown Function (DUF1086)
+DUF1087	
+DUF1220	Repeat of unknown function (DUF1220)
+DUF1237	
+DUF1338	
+DUF1518	
+DUF167	
+DUF1693	Domain of unknown function (DUF1693)
+DUF1704	
+DUF1713	Mitochondrial domain of unknown function (DUF1713)
+DUF1716	Eukaryotic domain of unknown function (DUF1716)
+DUF1719	
+DUF1741	
+DUF1744	
+DUF1751	Eukaryotic integral membrane protein (DUF1751)
+DUF1767	
+DUF1771	
+DUF1785	
+DUF1856	
+DUF1866	
+DUF1899	
+DUF1900	
+DUF1907	
+DUF1943	
+DUF1944	
+DUF3402	Domain of unknown function (DUF3402)
+DUF3585	
+DUF3700	
+DUF4187	
+DUF4205	
+DUF4206	
+DUF4208	
+DUF4210	
+DUF4217	
+DUF862	PPPDE putative peptidase domain
+DUSP	Domain in ubiquitin-specific proteases.
+DWA	Domain A in dwarfin family proteins
+DWB	Domain B in dwarfin family proteins
+DWNN	
+DYNc	Dynamin, GTPase
+DysFC	Dysferlin domain, C-terminal region.
+DysFN	Dysferlin domain, N-terminal region.
+DZF	domain in DSRM or ZnF_C2H2 domain containing proteins
+E2_bind	
+EAL	Putative diguanylate phosphodiesterase
+EB_dh	Ethylbenzene dehydrogenase
+ECIST_Cterm	C-terminal domain of the ECSIT protein
+EF-1_beta_acid	Eukaryotic elongation factor 1 beta central acidic region
+EF1_GNE	EF-1 guanine nucleotide exchange domain
+EF1G	Elongation factor 1 gamma, conserved domain
+EFG_C	Elongation factor G C-terminus
+EFG_IV	Elongation factor G, domain IV
+EFh	EF-hand, calcium binding motif
+efhand_Ca_insen	Ca2+ insensitive EF hand
+EFP	Elongation factor P (EF-P) OB domain
+EGF	Epidermal growth factor-like domain.
+EGF_CA	Calcium-binding EGF-like domain
+EGF_Lam	Laminin-type epidermal growth factor-like domai
+EGF_like	EGF domain, unclasssified subfamily
+EH	Eps15 homology domain
+eIF1a	eukaryotic translation initiation factor 1A
+eIF2B_5	domain present in translation initiation factor eIF2B and eIF5
+eIF3_N	eIF3 subunit 6 N terminal domain
+eIF5C	Domain at the C-termini of GCD6, eIF-2B epsilon, eIF-4 gamma and eIF-5
+eIF6	translation initiation factor 6
+EKR	Domain of unknown function
+ELFV_dehydrog	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+Elicitin	
+ELK	
+ELM2	
+Elong-fact-P_C	Elongation factor P, C-terminal
+Elp3	Elongator protein 3, MiaB family, Radical SAM
+EMP24_GP25L	emp24/gp25L/p24 family/GOLD
+END	Endothelin
+ENDO3c	endonuclease III
+Endonuclease_NS	DNA/RNA non-specific endonuclease
+Enolase_C	Enolase, C-terminal TIM barrel domain
+Enolase_N	Enolase, N-terminal domain
+ENT	
+ENTH	Epsin N-terminal homology (ENTH) domain
+EPEND	Ependymins
+EPH_lbd	Ephrin receptor ligand binding domain
+ERCC4	ERCC4 domain
+eRF1_1	
+ETF	Electron transfer flavoprotein domain
+ETS	erythroblast transformation specific domain
+Excalibur	Excalibur calcium-binding domain
+EXOIII	
+EZ_HEAT	E-Z type HEAT repeats
+FA	FERM adjacent (FA)
+FA58C	Coagulation factor 5/8 C-terminal domain, discoidin domain
+FABD	F-actin binding domain (FABD)
+FACT-Spt16_Nlob	FACT complex subunit SPT16 N-terminal lobe domain
+FANCL_C	FANCL C-terminal domain
+Fapy_DNA_glyco	Formamidopyrimidine-DNA glycosylase N-terminal domain
+FAS1	Four repeated domains in the Fasciclin I family of proteins, present in many other contexts.
+FBA	F-box associated region
+FBD	domain in FBox and BRCT domain containing plant proteins
+FBG	Fibrinogen-related domains (FReDs)
+FBOX	A Receptor for Ubiquitination Targets
+fCBD	Fungal-type cellulose-binding domain
+FCD	
+FCH	Fes/CIP4 homology domain
+FDF	
+FDX-ACB	Ferredoxin-fold anticodon binding domain
+Fe_hyd_SSU	Iron hydrogenase small subunit
+FeoA	
+FerA	
+FerB	
+FerI	
+FERM_C	FERM C-terminal PH-like domain
+FES	
+FF	Contains two conserved F residues
+FGF	Acidic and basic fibroblast growth factor family.
+FH	FORKHEAD
+FH2	Formin Homology 2 Domain
+FHA	Forkhead associated domain
+Fib_alpha	Fibrinogen alpha/beta chain family
+Fibrillarin	
+FIMAC	factor I membrane attack complex
+FISNA	Fish-specific NACHT associated domain
+FIST	FIST N domain
+FIST_C	
+FKS1_dom1	1,3-beta-glucan synthase subunit FKS1
+Flavin_Reduct	Flavin reductase like domain
+Flavokinase	Riboflavin kinase
+Flo11	
+Flu_M1_C	Influenza Matrix protein (M1) C-terminal domain
+FMN_bind	
+Fmp27_GFWDK	RNA pol II promoter Fmp27 protein domain
+Fmp27_SW	RNA pol II promoter Fmp27 protein domain
+Fmp27_WPPW	RNA pol II promoter Fmp27 protein domain Provide feedback
+FN1	Fibronectin type 1 domain
+FN2	Fibronectin type 2 domain
+FN3	Fibronectin type 3 domain
+Fn3_like	Fibronectin type III-like domain
+FolB	Dihydroneopterin aldolase
+FOLN	Follistatin-N-terminal domain-like
+FoP_duplication	C-terminal duplication domain of Friend of PRMT1
+Frataxin_Cyay	Frataxin-like domain
+FRG	
+FRI	Frizzled
+FSA_C	Fragile site-associated protein C-terminus
+FTCD	Formiminotransferase domain
+FTCD_N	Formiminotransferase domain, N-terminal subdomain
+FTO_NTD	FTO catalytic domain
+FTP	eel-Fucolectin Tachylectin-4 Pentaxrin-1 Domain
+FtsA	Cell division protein FtsA
+Ftsk_gamma	
+FU	Furin-like repeats
+Fungal_trans	Fungal specific transcription factor domain
+FYRC	"FY-rich" domain, C-terminal region
+FYRN	"FY-rich" domain, N-terminal region
+FYVE	Protein present in Fab1, YOTB, Vac1, and EEA1
+G2F	G2 nidogen domain and fibulin
+G3P_acyltransf	Glycerol-3-phosphate acyltransferase
+G5	
+G8	
+G_alpha	G protein alpha subunit
+G_gamma	GGL domain
+G_patch	glycine rich nucleic binding domain
+GA	GA module
+GAF	Domain present in phytochromes and cGMP-specific phosphodiesterases.
+GAGA_bind	GAGA binding protein-like family
+Gal-bind_lectin	Galactoside-binding lectin
+GAL4	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
+Galanin	Galanin
+GARS_A	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+GARS_C	Phosphoribosylglycinamide synthetase, C domain
+GAS2	Growth-Arrest-Specific Protein 2 Domain
+GASTRIN	gastrin / cholecystokinin / caerulein family
+GATase_5	CobB/CobQ-like glutamine amidotransferase domain
+GatB_Yqey	GatB domain
+GCK	
+GDNF	GDNF/GAS1 domain
+GED	Dynamin GTPase effector domain
+GEL	Gelsolin homology domain
+Germane	Sporulation and spore germination
+GGDEF	diguanylate cyclase
+GGL	G protein gamma subunit-like motifs
+GHA	Glycoprotein hormone alpha chain homologues.
+GHB	Glycoprotein hormone beta chain homologues.
+GIDA_assoc_3	GidA associated domain 3
+GIT	Helical motif in the GIT family of ADP-ribosylation factor GTPase-activating proteins
+GIYc	GIY-YIG type nucleases (URI domain)
+GLA	Domain containing Gla (gamma-carboxyglutamate) residues.
+GLECT	Galectin
+Gln-synt_C	Glutamine synthetase, catalytic domain
+GLUCA	Glucagon like hormones
+GluR_Homer-bdg	
+Glyco_10	Glycosyl hydrolase family 10
+Glyco_18	
+Glyco_25	Glycosyl hydrolases family 25
+Glyco_32	Glycosyl hydrolases family 32
+GoLoco	LGN motif, putative GEFs specific for G-alpha GTPases
+Gp_dh_N	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+GPS	G-protein-coupled receptor proteolytic site domain
+GRAM	domain in glucosyltransferases, myotubularins and other putative membrane-associated proteins
+GRAN	Granulin
+Grip	golgin-97, RanBP2alpha,Imh1p and p230/golgin-245
+GS	GS motif
+GuKc	Guanylate kinase homologues.
+GYF	Contains conserved Gly-Tyr-Phe residues
+GYR	Motif of unknown function with conserved Gly, Tyr, Arg tripeptide in Drosophila proteins.
+H-kinase_dim	Signal transducing histidine kinase, homodimeric domain
+H15	Domain in histone families 1 and 5
+H2A	Histone 2A
+H2B	Histone H2B
+H2TH	Formamidopyrimidine-DNA glycosylase H2TH domain
+H3	Histone H3
+H4	Histone H4
+HA2	Helicase associated domain (HA2) Add an annotation
+HABP4_PAI-RBP1	Hyaluronan / mRNA binding family
+Haem_bd	Haem-binding domain
+Haem_oxygenase_2	Iron-containing redox enzyme
+Haemagg_act	haemagglutination activity domain
+Haemolytic	
+HALZ	homeobox associated leucin zipper
+HAMP	HAMP (Histidine kinases, Adenylyl cyclases, Methyl binding proteins, Phosphatases) domain
+HAT	HAT (Half-A-TPR) repeats
+HATPase_c	Histidine kinase-like ATPases
+HDAC_interact	Histone deacetylase (HDAC) interacting
+HDc	Metal dependent phosphohydrolases with conserved 'HD' motif.
+HECTc	Domain Homologous to E6-AP Carboxyl Terminus with
+HELICc	helicase superfamily c-terminal domain
+HELICc2	
+HELICc3	
+HEPN	Higher Eukarytoes and Prokaryotes Nucleotide-binding domain
+HhH1	Helix-hairpin-helix DNA-binding motif class 1
+HhH2	Helix-hairpin-helix class 2 (Pol1 family) motifs
+HintC	Hint (Hedgehog/Intein) domain C-terminal region
+HintN	Hint (Hedgehog/Intein) domain N-terminal region
+HIRAN	
+HisKA	His Kinase A (phosphoacceptor) domain
+HLH	helix loop helix domain
+HMG	high mobility group
+HMG17	domain in high mobilty group proteins HMG14 and HMG 17
+HNHc	HNH nucleases
+HNS	Domain in histone-like proteins of HNS family
+HOLI	Ligand binding domain of hormone receptors
+HormR	Domain present in hormone receptors
+HOX	Homeodomain
+HPT	Histidine Phosphotransfer domain
+Hr1	Rho effector or protein kinase C-related kinase homology region 1 homologues
+HRDC	Helicase and RNase D C-terminal
+HSA	domain in helicases and associated with SANT domains
+HSF	heat shock factor
+HTH_ARAC	helix_turn_helix, arabinose operon control protein
+HTH_ARSR	helix_turn_helix, Arsenical Resistance Operon Repressor
+HTH_ASNC	helix_turn_helix ASNC type
+HTH_CRP	helix_turn_helix, cAMP Regulatory protein
+HTH_DEOR	helix_turn_helix, Deoxyribose operon repressor
+HTH_DTXR	Helix-turn-helix diphteria tox regulatory element
+HTH_GNTR	helix_turn_helix gluconate operon transcriptional repressor
+HTH_ICLR	helix_turn_helix isocitrate lyase regulation
+HTH_LACI	helix_turn _helix lactose operon repressor
+HTH_LUXR	helix_turn_helix, Lux Regulon
+HTH_MARR	helix_turn_helix multiple antibiotic resistance protein
+HTH_MERR	helix_turn_helix, mercury resistance
+HTH_XRE	Helix-turn-helix XRE-family like proteins
+HTTM	Horizontally Transferred TransMembrane Domain
+HWE_HK	HWE histidine kinase
+HX	Hemopexin-like repeats.
+HYDRO	Hydrophobins
+IB	Insulin growth factor-binding protein homologues
+IBN_N	Importin-beta N-terminal domain
+IBR	In Between Ring fingers
+ICA69	Islet cell autoantigen ICA69, C-terminal domain
+IDEAL	
+IENR1	Intron encoded nuclease repeat motif
+IENR2	Intron-encoded nuclease repeat 2
+IFabd	Interferon alpha, beta and delta.
+IG	Immunoglobulin
+IG_FLMN	Filamin-type immunoglobulin domains
+IG_like	Immunoglobulin like
+IGc1	Immunoglobulin C-Type
+IGc2	Immunoglobulin C-2 Type
+IGR	
+IGv	Immunoglobulin V-Type
+IKKbetaNEMObind	I-kappa-kinase-beta NEMO binding domain
+IL1	Interleukin-1 homologues
+IL10	Interleukin-10 family
+IL2	Interleukin-2 family
+IL4_13	Interleukins 4 and 13
+IL6	Interleukin-6 homologues
+IL7	Interleukin-7 and interleukin-9 family.
+IlGF	Insulin / insulin-like growth factor / relaxin family.
+ILWEQ	I/LWEQ domain
+IMPDH	IMP dehydrogenase / GMP reductase domain
+INB	Integrin beta subunits (N-terminal portion of extracellular region)
+Inhibitor_I29	Cathepsin propeptide inhibitor domain (I29)
+Int_alpha	Integrin alpha (beta-propellor repeats).
+Integrin_b_cyt	
+Integrin_B_tail	
+IPPc	Inositol polyphosphate phosphatase, catalytic domain homologues
+IPT	ig-like, plexins, transcription factors
+IQ	Short calmodulin-binding motif containing conserved Ile and Gln residues.
+IRF	interferon regulatory factor
+IRF-3	Interferon-regulatory factor 3
+IRO	Motif in Iroquois-class homeodomain proteins (only). Unknown function.
+IRS	Phosphotyrosine-binding domain
+ITAM	Immunoreceptor tyrosine-based activation motif
+JAB_MPN	JAB/MPN domain
+Jacalin	Jacalin-like lectin domain
+Jag_N	
+JHBP	Juvenile hormone binding protein domains in insects.
+JmjC	A domain family that is part of the cupin metalloenzyme superfamily.
+JmjN	Small domain found in the jumonji family of transcription factors
+Josephin	
+KaiA	
+KaiB	
+KASH	Nuclear envelope localisation domain
+KAT11	Histone acetylation protein
+KAZAL	Kazal type serine protease inhibitors
+KbaA	KinB-signalling pathway activation in sporulation
+Kelch	
+KH	K homology RNA-binding domain
+KilA-N	
+Kin17_mid	Domain of Kin17 curved DNA-binding protein
+KIND	kinase non-catalytic C-lobe domain
+KISc	Kinesin motor, catalytic domain. ATPase.
+KLRAQ	Predicted coiled-coil domain-containing protein
+Knot1	Knottins
+KNOX1	
+KNOX2	
+KOW	KOW (Kyprides, Ouzounis, Woese) motif.
+KR	Kringle domain
+KRAB	krueppel associated box
+KRAP_IP3R_bind	Ki-ras-induced actin-interacting protein-IP3R-interacting domain
+KRBA1	KRBA1 family repeat
+KU	BPTI/Kunitz family of serine protease inhibitors.
+Ku78	Ku70 and Ku80 are 70kDa and 80kDa subunits of the Lupus Ku autoantigen
+L27	domain in receptor targeting proteins Lin-2 and Lin-7
+L51_S25_CI-B8	Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain
+LA	Domain in the RNA-binding Lupus La protein; unknown function
+LAB_N	Lipid A Biosynthesis N-terminal domain
+Lactamase_B	Metallo-beta-lactamase superfamily
+LAG1_DNAbind	LAG1, DNA binding
+LamB	Laminin B domain
+LamG	Laminin G domain
+LamGL	LamG-like jellyroll fold domain
+LamNT	Laminin N-terminal domain (domain VI)
+LAMTOR	Late endosomal/lysosomal adaptor and MAPK and MTOR activator
+LANC_like	Lanthionine synthetase C-like protein
+LCCL	
+LDLa	Low-density lipoprotein receptor domain class A
+LEM	in nuclear membrane-associated proteins
+LeuA_dimer	LeuA allosteric (dimerisation) domain
+Leuk-A4-hydro_C	Leukotriene A4 hydrolase, C-terminal
+LH2	Lipoxygenase homology 2 (beta barrel) domain
+LIF_OSM	leukemia inhibitory factor
+Lig_chan-Glu_bd	Ligated ion channel L-glutamate- and glycine-binding site
+LIGANc	Ligase N family
+LIM	Zinc-binding domain present in Lin-11, Isl-1, Mec-3.
+LINK	Link (Hyaluronan-binding)
+Lipid_DES	Sphingolipid Delta4-desaturase (DES)
+LisH	Lissencephaly type-1-like homology motif
+LITAF	Possible membrane-associated motif in LPS-induced tumor necrosis factor alpha factor (LITAF), also known as PIG7, and other animal proteins.
+LMWPc	Low molecular weight phosphatase family
+LNS2	
+LON	Found in ATP-dependent protease La (LON)
+Longin	Regulated-SNARE-like domain
+LPD_N	Lipoprotein N-terminal Domain
+LRR	Leucine-rich repeats, outliers
+LRR_BAC	Leucine-rich repeats, bacterial type
+LRR_CC	Leucine-rich repeat - CC (cysteine-containing) subfamily
+LRR_RI	Leucine rich repeat, ribonuclease inhibitor type
+LRR_SD22	Leucine-rich repeat, SDS22-like subfamily
+LRR_TYP	Leucine-rich repeats, typical (most populated) subfamily
+LRRcap	occurring C-terminal to leucine-rich repeats
+LRRCT	Leucine rich repeat C-terminal domain
+LRRNT	Leucine rich repeat N-terminal domain
+LSM14	Scd6-like Sm domain
+LsmAD	
+LU	Ly-6 antigen / uPA receptor -like domain
+LY	Low-density lipoprotein-receptor YWTD domain
+LysM	Lysin motif
+LytTR	LytTr DNA-binding domain
+LYZ1	Alpha-lactalbumin / lysozyme C
+LYZ2	Lysozyme subfamily 2
+M16C_associated	Peptidase M16C associated
+M60-like	Peptidase M60-like family
+MA	Methyl-accepting chemotaxis-like domains (chemotaxis sensory transducer).
+MA3	Domain in DAP-5, eIF4G, MA-3 and other proteins.
+Mab-21	
+Mac	Maltose acetyltransferase
+MACPF	membrane-attack complex / perforin
+Mad3_BUB1_I	Mad3/BUB1 hoMad3/BUB1 homology region 1
+MADF	
+MADS	
+Mago-bind	Mago binding
+MAGUK_N_PEST	Polyubiquitination (PEST) N-terminal domain of MAGUK
+malic	Malic enzyme, N-terminal domain
+Malic_M	Malic enzyme, NAD binding domain
+MAM	Domain in meprin, A5, receptor protein tyrosine phosphatase mu (and others)
+MamL-1	MamL-1 domain
+MANEC	
+MAPKK1_Int	Mitogen-activated protein kinase kinase 1 interacting
+MATH	meprin and TRAF homology
+Matrilin_ccoil	Trimeric coiled-coil oligomerisation domain of matrilin
+MBD	Methyl-CpG binding domain
+MBT	Present in Drosophila Scm, l(3)mbt, and vertebrate SCML2
+MbtH	MbtH-like protein
+MCM	minichromosome maintenance proteins
+Mcm10	Mcm10 replication factor
+MD	
+Med12	Transcription mediator complex subunit Med12
+MeTrc	Methyltransferase, chemotaxis proteins
+MGS	MGS-like domain
+MgtE_N	MgtE intracellular N domain
+MHC_II_alpha	Class II histocompatibility antigen, alpha domain
+MHC_II_beta	Class II histocompatibility antigen, beta domain
+MIF4G	Middle domain of eukaryotic initiation factor 4G (eIF4G)
+MIR	Domain in ryanodine and inositol trisphosphate receptors and protein O-mannosyltransferases
+MIT	Microtubule Interacting and Trafficking molecule domain
+ML	Domain involved in innate immunity and lipid metabolism.
+MltA	MltA specific insert domain
+MoCF_biosynth	Probable molybdopterin binding domain
+Molybdop_Fe4S4	Molybdopterin oxidoreductase Fe4S4 domain
+MORN	Possible plasma membrane-binding motif in junctophilins, PIP-5-kinases and protein kinases.
+MR_MLE	Mandelate racemase / muconate lactonizing enzyme, C-terminal domain
+Mterf	Mitochondrial termination factor repeats
+MutH	DNA mismatch repair enzyme MutH
+MutL_C	MutL C terminal dimerisation domain
+MUTSac	ATPase domain of DNA mismatch repair MUTS family
+MUTSd	DNA-binding domain of DNA mismatch repair MUTS family
+MYSc	Myosin. Large ATPases.
+MyTH4	Domain in Myosin and Kinesin Tails
+N-glycanase_N	Peptide-N-glycosidase F, N terminal
+N-SET	COMPASS (Complex proteins associated with Set1p) component N
+N1221	N1221-like protein
+NADH-G_4Fe-4S_3	NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
+NADH_4Fe-4S	NADH-ubiquinone oxidoreductase-F iron-sulfur binding region
+NAT_PEP	Natriuretic peptide
+NDK	
+NEAT	NEAr Transporter domain
+NEBU	
+NEUZ	
+Nfu_N	Scaffold protein Nfu/NifU N terminal
+NGF	Nerve growth factor (NGF or beta-NGF)
+NGN	In Spt5p, this domain may confer affinity for Spt4p. It possesses a RNP-like fold.
+NH	Neurohypophysial hormones
+NIDO	Extracellular domain of unknown function in nidogen (entactin) and hypothetical proteins.
+NIL	
+NL	Domain found in Notch and Lin-12
+NMU	Neuromedin U
+NOSIC	NOSIC (NUC001) domain
+NPCBM	
+NRF	N-terminal domain in C. elegans NRF-6 (Nose Resistant to Fluoxetine-4) and NDG-4 (resistant to nordihydroguaiaretic acid-4).
+NTR	Tissue inhibitor of metalloproteinase family.
+NUC	DNA/RNA non-specific endonuclease
+NurA	
+OLF	Olfactomedin-like domains
+OMPdecase	Orotidine 5'-phosphate decarboxylase / HUMPS family
+OmpH	Outer membrane protein (OmpH-like)
+ORANGE	Orange domain
+OSTEO	Osteopontin
+P-II	Nitrogen regulatory protein P-II
+P4Hc	Prolyl 4-hydroxylase alpha subunit homologues.
+PA14	
+PA2c	Phospholipase A2
+PAC	Motif C-terminal to PAS motifs (likely to contribute to PAS structural domain)
+PAH	Pancreatic hormones / neuropeptide F / peptide YY family
+PAM	PCI/PINT associated module
+PAN_AP	divergent subfamily of APPLE domains
+ParB	ParB-like nuclease domain
+PAS	PAS domain
+PASTA	
+PAW	domain present in PNGases and other hypothetical proteins
+PAX	Paired Box domain
+PAZ	
+PB1	PB1 domain
+PBD	P21-Rho-binding domain
+PbH1	Parallel beta-helix repeats
+PBP5_C	Penicillin-binding protein 5, C-terminal domain
+PBPb	Bacterial periplasmic substrate-binding proteins
+PBPe	Eukaryotic homologues of bacterial periplasmic substrate binding proteins.
+PCRF	
+PD	P or trefoil or TFF domain
+PDGF	Platelet-derived and vascular endothelial growth factors (PDGF, VEGF) family
+PDZ	Domain present in PSD-95, Dlg, and ZO-1/2.
+Pept_C1	Papain family cysteine protease
+PepX_C	X-Pro dipeptidyl-peptidase C-terminal non-catalytic domain
+PepX_N	X-Prolyl dipeptidyl aminopeptidase PepX, N-terminal
+PGA_cap	Bacterial capsule synthesis protein PGA_cap
+PGAM	Phosphoglycerate mutase family
+PGRP	Animal peptidoglycan recognition proteins homologous to Bacteriophage T3 lysozyme.
+PH	Pleckstrin homology domain.
+PHB	prohibitin homologues
+PhBP	Insect pheromone/odorant binding protein domains.
+PHD	PHD zinc finger
+PhnA_Zn_Ribbon	PhnA Zinc-Ribbon
+PI3K_C2	Phosphoinositide 3-kinase, region postulated to contain C2 domain
+PI3K_p85B	PI3-kinase family, p85-binding domain
+PI3K_rbd	PI3-kinase family, Ras-binding domain
+PI3Ka	Phosphoinositide 3-kinase family, accessory domain (PIK domain)
+PI3Kc	Phosphoinositide 3-kinase, catalytic domain
+PIG-X	PIG-X / PBN1
+PINc	Large family of predicted nucleotide-binding domains
+PINT	motif in proteasome subunits, Int-6, Nip-1 and TRIP-15
+PIPKc	Phosphatidylinositol phosphate kinases
+Piwi	
+PKD	Repeats in polycystic kidney disease 1 (PKD1) and other proteins
+PKS_AT	Acyl transferase domain in polyketide synthase (PKS) enzymes.
+PKS_DH	
+PKS_ER	Enoylreductase
+PKS_KR	
+PKS_KS	Beta-ketoacyl synthase
+PKS_MT	Methyltransferase in polyketide synthase (PKS) enzymes.
+PKS_PP	Phosphopantetheine attachment site
+PKS_PP_betabranch	
+PKS_TE	Thioesterase
+PLAc	Cytoplasmic phospholipase A2, catalytic subunit
+PLCXc	Phospholipase C, catalytic domain (part); domain X
+PLCYc	Phospholipase C, catalytic domain (part); domain Y
+PLDc	Phospholipase D. Active site motifs.
+PLEC	Plectin repeat
+PLP	Myelin proteolipid protein (PLP or lipophilin)
+PlsC	Phosphate acyltransferases
+Plus3	Short conserved domain in transcriptional regulators.
+PMEI	Plant invertase/pectin methylesterase inhibitor
+POL3Bc	DNA polymerase III beta subunit
+POLAc	DNA polymerase A domain
+POLBc	DNA polymerase type-B family
+POLIIIAc	DNA polymerase alpha chain like domain
+POLXc	DNA polymerase X family
+PolyA	C-terminal domain of Poly(A)-binding protein. Present also in Drosophila hyperplastics discs protein.
+POP4	A domain found in a protein subunit of human RNase MRP and RNase P ribonucleoprotein complexes and archaeal proteins.
+PostSET	Cysteine-rich motif following a subset of SET domains
+POU	Found in Pit-Oct-Unc transcription factors
+POX	domain associated with HOX domains
+PP2Ac	Protein phosphatase 2A homologues, catalytic domain.
+PP2C_SIG	Sigma factor PP2C-like phosphatases
+PP2Cc	Serine/threonine phosphatases, family 2C, catalytic domain
+PQQ	beta-propeller repeat
+PRE_C2HC	
+PreSET	N-terminal to some SET domains
+PriCT_1	Primase C terminal 1 (PriCT-1)
+Prim-Pol	Bifunctional DNA primase/polymerase, N-terminal
+Prim_Zn_Ribbon	Zinc-binding domain of primase-helicase
+Pro-kuma_activ	Pro-kumamolisin, activation domain
+Pro_CA	Carbonic anhydrase
+PROF	Profilin
+ProQ	ProQ/FINO family
+ProRS-C_1	Prolyl-tRNA synthetase, C-terminal
+Proteasome_A_N	Proteasome subunit A N-terminal signature Add an annotation
+PRP	Major prion protein
+PRY	
+PSA	Paramecium Surface Antigen Repeat
+PSI	domain found in Plexins, Semaphorins and Integrins
+PSN	Presenilin, signal peptide peptidase, family
+PSP	proline-rich domain in spliceosome associated proteins
+PTB	Phosphotyrosine-binding domain, phosphotyrosine-interaction (PI) domain
+PTBI	Phosphotyrosine-binding domain (IRS1-like)
+PTH	Parathyroid hormone
+PTI	Plant trypsin inhibitors
+PTN	Pleiotrophin / midkine family
+PTPc	Protein tyrosine phosphatase, catalytic domain
+PTPc_DSPc	Protein tyrosine phosphatase, catalytic domain, undefined specificity
+PTPc_motif	Protein tyrosine phosphatase, catalytic domain motif
+PTX	Pentraxin / C-reactive protein / pentaxin family
+PUA	Putative RNA-binding Domain in PseudoUridine synthase and Archaeosine transglycosylase
+PUG	domain in protein kinases, N-glycanases and other nuclear proteins
+Pumilio	Pumilio-like repeats
+PUR	DNA/RNA-binding repeats in PUR-alpha/beta/gamma and in hypothetical proteins from spirochetes and the Bacteroides-Cytophaga-Flexibacter bacteria.
+PWI	PWI, domain in splicing factors
+PWWP	domain with conserved PWWP motif
+PX	PhoX homologous domain, present in p47phox and p40phox.
+PXA	Domain associated with PX domains
+PYNP_C	Pyrimidine nucleoside phosphorylase C-terminal domain
+PYRIN	PAAD/DAPIN/Pyrin domain
+QLQ	
+R3H	Putative single-stranded nucleic acids-binding domain
+RA	Ras association (RalGDS/AF-6) domain
+RAB	Rab subfamily of small GTPases
+rADc	Ribosomal RNA adenine dimethylases
+RAN	Ran (Ras-related nuclear proteins) /TC4 subfamily of small GTPases
+RanBD	Ran-binding domain
+RAP	
+RAS	Ras subfamily of RAS small GTPases
+RasGAP	GTPase-activator protein for Ras-like GTPases
+RasGEF	Guanine nucleotide exchange factor for Ras-like small GTPases
+RasGEFN	Guanine nucleotide exchange factor for Ras-like GTPases; N-terminal motif
+RBD	Raf-like Ras-binding domain
+REC	cheY-homologous receiver domain
+RelA_SpoT	Region found in RelA / SpoT proteins
+RES	
+Resolvase	Resolvase, N terminal domain
+RGS	Regulator of G protein signalling domain
+RHO	Rho (Ras homology) subfamily of Ras-like small GTPases
+Rho_N	Rho termination factor, N-terminal domain
+RHOD	Rhodanese Homology Domain
+RhoGAP	GTPase-activator protein for Rho-like GTPases
+RhoGEF	Guanine nucleotide exchange factor for Rho/Rac/Cdc42-like GTPases
+RIBOc	Ribonuclease III family
+RICIN	Ricin-type beta-trefoil
+RIIa	RIIalpha, Regulatory subunit portion of type II PKA R-subunit
+RING	Ring finger
+RINGv	The RING-variant domain is a C4HC3 zinc-finger like motif found in a number of cellular and viral proteins. Some of these proteins have been shown both in vivo and in vitro to have ubiquitin E3 ligase activity.
+RIO	RIO-like kinase
+RL11	Ribosomal protein L11/L12
+RNAse_Pc	Pancreatic ribonuclease
+RNB	
+Robl_LC7	Roadblock/LC7 domain
+RPEL	Repeat in Drosophila CG10860, human KIAA0680 and C. elegans F26H9.2
+RPOL4c	DNA-directed RNA-polymerase II subunit
+RPOL8c	RNA polymerase subunit 8
+RPOL9	RNA polymerase subunit 9
+RPOLA_N	RNA polymerase I subunit A N-terminus
+RPOLCX	RNA polymerase subunit CX
+RPOLD	RNA polymerases D
+RPR	
+RQC	
+RRM	RNA recognition motif
+RRM_1	RNA recognition motif
+RRM_2	RNA recognition motif
+Rtt106	Histone chaperone Rttp106-like
+RuBisCO_small	Ribulose bisphosphate carboxylase, small chain
+RUN	
+RWD	
+S1	Ribosomal protein S1-like RNA-binding domain
+S4	S4 RNA-binding domain
+s48_45	Sexual stage antigen s48/45 domain
+S_TK_X	Extension to Ser/Thr-type protein kinases
+S_TKc	Serine/Threonine protein kinases, catalytic domain
+SAA	Serum amyloid A proteins
+SAF	
+SAM	Sterile alpha motif.
+SAM_PNT	SAM / Pointed domain
+SAND	SAND domain
+SANT	SANT SWI3, ADA2, N-CoR and TFIIIB'' DNA-binding domains
+SAP	Putative DNA-binding (bihelical) motif predicted to be involved in chromosomal organisation
+SAPA	Saposin/surfactant protein-B A-type DOMAIN
+SapB	Saposin (B) Domains
+SAR	Sar1p-like members of the Ras-family of small GTPases
+SATase_N	Serine acetyltransferase, N-terminal
+SCAN	leucine rich region
+SCP	SCP / Tpx-1 / Ag5 / PR-1 / Sc7 family of extracellular domains.
+SCPU	Spore Coat Protein U domain
+SCY	Intercrine alpha family (small cytokine C-X-C) (chemokine CXC).
+SEA	Domain found in sea urchin sperm protein, enterokinase, agrin
+SEC14	Domain in homologues of a S. cerevisiae phosphatidylinositol transfer protein (Sec14p)
+Sec63	Sec63 Brl domain
+Sec7	Sec7 domain
+SecA_DEAD	SecA DEAD-like domain
+SecA_PP_bind	SecA preprotein cross-linking domain
+SEL1	Sel1-like repeats.
+Sema	semaphorin domain
+Semialdhyde_dh	Semialdehyde dehydrogenase, NAD binding domain
+SEP	Domain present in Saccharomyces cerevisiae Shp1, Drosophila melanogaster eyes closed gene (eyc), and vertebrate p47.
+SERPIN	SERine Proteinase INhibitors
+SET	SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain
+SF_P	Pulmonary surfactant proteins
+SFM	Splicing Factor Motif, present in Prp18 and Pr04
+SH2	Src homology 2 domains
+SH3	Src homology 3 domains
+SH3b	Bacterial SH3 domain homologues
+ShKT	ShK toxin domain
+SHR3_chaperone	ER membrane protein SH3
+Skp1	Found in Skp1 protein family
+Sm	snRNP Sm proteins
+small_GTPase	Small GTPase of the Ras superfamily; ill-defined subfamily
+SMC_hinge	SMC proteins Flexible Hinge Domain
+SMI1_KNR4	SMI1 / KNR4 family
+SMR	Small MutS-related domain
+SNc	Staphylococcal nuclease homologues
+SO	Somatomedin B -like domains
+SOCS	suppressors of cytokine signalling
+SOCS_box	
+Sorb	Sorbin homologous domain
+Spc7	Spc7 kinetochore protein
+SPEC	Spectrin repeats
+SPK	
+SpoU_sub_bind	RNA 2'-O ribose methyltransferase substrate binding
+SpoVT_AbrB	SpoVT / AbrB like domain
+SprT	SprT homologues.
+SPRY	Domain in SPla and the RYanodine Receptor.
+SPT16	FACT complex subunit (SPT16/CDC68)
+SPT2	SPT2 chromatin protein
+SR	Scavenger receptor Cys-rich
+SRA	SET and RING finger associated domain. Domain of unknown function in SET domain containing proteins and in Deinococcus radiodurans DRA1533.
+SRP54	SRP54-type protein, GTPase domain
+SRP54_N	SRP54-type protein, helical bundle domain
+START	in StAR and phosphatidylcholine transfer protein
+STAT_int	STAT protein, protein interaction domain
+STE	STE like transcription factors
+STI	Soybean trypsin inhibitor (Kunitz) family of protease inhibitors
+STI1	Heat shock chaperonin-binding motif.
+STN	Secretin and TonB N terminus short domain
+STYKc	Protein kinase; unclassified specificity.
+SWAP	Suppressor-of-White-APricot splicing regulator
+SWIB	SWI complex, BAF60b domains
+SynN	Syntaxin N-terminal domain
+T5orf172	
+t_SNARE	Helical region found in SNAREs
+TAF	TATA box binding protein associated factor
+TAFH	TAF homology
+TAP_C	C-terminal domain of vertebrate Tap protein
+TarH	Homologues of the ligand binding domain of Tar
+TBC	Domain in Tre-2, BUB2p, and Cdc16p. Probable Rab-GAPs.
+TBOX	Domain first found in the mice T locus (Brachyury) protein
+TDU	Short repeats in human TONDU, fly vestigial and other proteins.
+TEA	TEA domain
+TECPR	Beta propeller repeats in Physarum polycephalum tectonins, Limulus lectin L-6 and animal hypothetical proteins.
+Telo_bind	Telomeric single stranded DNA binding POT1/CDC13
+Telomerase_RBD	Telomerase ribonucleoprotein complex - RNA binding domain
+TFIIE	Transcription initiation factor IIE
+TFS2M	Domain in the central regions of transcription elongation factor S-II (and elsewhere)
+TFS2N	Domain in the N-terminus of transcription elongation factor S-II (and elsewhere)
+TGc	Transglutaminase/protease-like homologues
+TGFB	Transforming growth factor-beta (TGF-beta) family
+THAP	
+THEG	Repeats in THEG (testicular haploid expressed gene) and several fly proteins.
+THN	Thaumatin family
+THUMP	
+THY	Thymosin beta actin-binding motif.
+Thymopoietin	
+TIFY	
+TilS_C	TilS substrate C-terminal domain
+Tim44	
+TIR	Toll - interleukin 1 - resistance
+TK	Tachykinin family
+TLC	TRAM, LAG1 and CLN8 homology domains.
+TLDc	domain in TBC and LysM domain containing proteins
+TNF	Tumour necrosis factor family.
+TNFR	Tumor necrosis factor receptor / nerve growth factor receptor repeats.
+TOP1Ac	Bacterial DNA topoisomerase I DNA-binding domain
+TOP1Bc	Bacterial DNA topoisomeraes I ATP-binding domain
+TOP2c	TopoisomeraseII
+TOP4c	DNA Topoisomerase IV
+TOPEUc	DNA Topoisomerase I (eukaryota)
+TOPRIM	
+TPK_B1_binding	Thiamin pyrophosphokinase, vitamin B1 binding domain
+TPR	Tetratricopeptide repeats
+TR_FER	Transferrin
+TR_THY	Transthyretin
+Trans_reg_C	Transcriptional regulatory protein, C terminal
+Transket_pyr	Transketolase, pyrimidine binding domain
+TRASH	metallochaperone-like domain
+TRCF	
+tRNA_SAD	Threonyl and Alanyl tRNA synthetase second additional domain
+Tryp_SPc	Trypsin-like serine protease
+TSP1	Thrombospondin type 1 repeats
+TSPc	tail specific protease
+TSPN	Thrombospondin N-terminal -like domains.
+Tubulin	Tubulin/FtsZ family, GTPase domain
+Tubulin_C	Tubulin/FtsZ family, C-terminal domain
+TUDOR	Tudor domain
+TY	Thyroglobulin type I repeats.
+TyrKc	Tyrosine kinase, catalytic domain
+UAS	
+UBA	Ubiquitin associated domain
+UBA_e1_C	Ubiquitin-activating enzyme e1 C-terminal domain
+UBCc	Ubiquitin-conjugating enzyme E2, catalytic domain homologues
+Ubox	Modified RING finger domain
+UBQ	Ubiquitin homologues
+UBX	Domain present in ubiquitin-regulatory proteins
+uDENN	Domain always found upstream of DENN domain, found in a variety of signalling proteins
+UDG	Uracil DNA glycosylase superfamily
+UDPG_MGDP_dh_C	UDP binding domain
+UIM	Ubiquitin-interacting motif.
+UME	Domain in UVSB PI-3 kinase, MEI-41 and ESR-1
+UreE_C	UreE urease accessory protein, C-terminal domain
+UreE_N	UreE urease accessory protein, N-terminal domain
+UTG	Uteroglobin
+UTRA	
+V4R	
+VHP	Villin headpiece domain
+VHS	Domain present in VPS-27, Hrs and STAM
+VIT	Vault protein Inter-alpha-Trypsin domain
+VKc	
+VPS10	
+VPS9	Domain present in VPS9
+VRR_NUC	
+VWA	von Willebrand factor (vWF) type A domain
+VWC	von Willebrand factor (vWF) type C domain
+VWC_def	
+VWC_out	von Willebrand factor (vWF) type C domain
+VWD	von Willebrand factor (vWF) type D domain
+WAP	Four-disulfide core domains
+WD40	WD40 repeats
+WGR	Proposed nucleic acid binding domain
+WH1	WASP homology region 1
+WH2	Wiskott Aldrich syndrome homology region 2
+WHEP-TRS	
+WHy	Water Stress and Hypersensitive response
+WIF	Wnt-inhibitory factor-1 like domain
+WNT1	found in Wnt-1
+WR1	Worm-specific repeat type 1
+WRKY	DNA binding domain
+WSC	present in yeast cell wall integrity and stress response component proteins
+WSN	Worm-specific (usually) N-terminal domain
+WW	Domain with 2 conserved Trp (W) residues
+WWE	Domain in Deltex and TRIP12 homologues. Possibly involved in regulation of ubiquitin-mediated proteolysis.
+X8	Possibly involved in carbohydrate binding
+XPGI	Xeroderma pigmentosum G I-region
+XPGN	Xeroderma pigmentosum G N-region
+XTALbg	Beta/gamma crystallins
+YccV-like	Hemimethylated DNA-binding protein YccV like
+YceI	YceI-like domain
+YL1_C	YL1 nuclear protein C-terminal domain
+YqgFc	Likely ribonuclease with RNase H fold.
+Zalpha	Z-DNA-binding domain in adenosine deaminases.
+zf-AD	Zinc-finger associated domain (zf-AD)
+zf-C4_ClpX	ClpX C4-type zinc finger
+ZipA_C	ZipA, C-terminal domain (FtsZ-binding)
+ZM	ZASP-like motif
+Zn_dep_PLPC	Zinc dependent phospholipase C (alpha toxin)
+Zn_pept	
+ZnF_A20	A20-like zinc fingers
+ZnF_AN1	AN1-like Zinc finger
+ZnF_BED	BED zinc finger
+ZnF_C2C2	C2C2 Zinc finger
+ZnF_C2H2	zinc finger
+ZnF_C2HC	zinc finger
+ZnF_C3H1	zinc finger
+ZnF_C4	c4 zinc finger in nuclear hormone receptors
+ZnF_CDGSH	CDGSH-type zinc finger. Function unknown.
+ZnF_CHCC	zinc finger
+ZnF_DBF	Zinc finger in DBF-like proteins
+ZnF_GATA	zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+ZnF_NFX	
+ZnF_PMZ	plant mutator transposase zinc finger
+ZnF_Rad18	Rad18-like CCHC zinc finger
+ZnF_RBZ	Zinc finger domain
+ZnF_TAZ	TAZ zinc finger, present in p300 and CBP
+ZnF_TTF	
+ZnF_U1	U1-like zinc finger
+ZnF_UBP	Ubiquitin Carboxyl-terminal Hydrolase-like zinc finger
+ZnF_UBR1	Putative zinc finger in N-recognin, a recognition component of the N-end rule pathway
+ZnF_ZZ	Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+ZnMc	Zinc-dependent metalloprotease
+ZP	Zona pellucida (ZP) domain
+Zpr1	Duplicated domain in the epidermal growth factor- and elongation factor-1alpha-binding protein Zpr1. Also present in archaeal proteins.
+ZU5	Domain present in ZO-1 and Unc5-like netrin receptors

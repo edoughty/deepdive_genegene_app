@@ -1,0 +1,28 @@
+############################################
+# Author: Emily K Mallory
+# Date: 08/24/15
+# Contact: emily.mallory@stanford.edu
+#
+# README file for deepdive_genegene_app
+#
+############################################
+
+#### Description and Installation ####
+This repository contains the application code to generate the gene-gene extractions for the system DeepDive described in the paper “Large-scale extraction of gene interactions from full-text literature using DeepDive” (to be published in Bioinformatics). The application code was specifically implanted for a corpus of PLOS full text documents. The application code requires installation of DeepDive (available at deepdive.stanford.edu), along with installation of all required DeepDive dependencies. In addition, installation of PostgreSQL database is required. The application code should be located in the directory app/deepdive_genegene_app within the DeepDive installation directory. 
+
+#### Datasets ####
+Datasets should be deposited in Data directory and can be downloaded from DeepDive's Open Datasets at http://deepdive.stanford.edu/doc/opendata/
+
+#### Run Instructions ####
+
+Make sure the following environment variables are set:
+PGDATABASE
+PGUSER
+PGHOST
+PGPORT
+
+Update maximum memory and parallelization in run.sh
+
+Run from command line: ./run.sh
+
+

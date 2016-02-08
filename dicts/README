@@ -1,0 +1,72 @@
+#########################################
+# Author: Emily Mallory
+# Date: 08/25/15
+# Contact: emily.mallory@stanford.edu
+#
+# README for the dictionaries and sources for each file in /dicts
+#
+#########################################
+
+
+####### INCLUDED FILES ######
+
+1. compounds_bio_roles.txt
+
+   List of compounds with biological roles based on KEGG.
+   Original data available at http://www.genome.jp/kegg-bin/get_htext?br08001.keg
+
+2. genegene_exclusion_distant_supervision.txt
+    
+   List of gene-gene interactions excluded from distant supervision. List constructed during manual tuning.
+
+3. genegene_snowball.txt
+
+   List of gene-gene interactions included in distant supervision. List constructed during manual tuning.
+
+4. genes_pruned.tsv
+
+   Pruned file based on genes.tsv from PharmGKB
+
+5. med_acronyms_pruned.txt
+   
+   List of biomedical acronyms
+
+6. negatome_combined_stringent_names.txt
+
+   Negatome interactions with gene names. 
+   Original file and download available at http://mips.helmholtz-muenchen.de/proj/ppi/negatome/
+   See Negatome download page for file description.
+
+7. plos_journals_BioGRID_pmids.txt
+
+   Mapping file for PLOS document ids to curated PubMed ids in BioGRID
+
+8. smart_domain_list.txt
+
+   List of SMART domains generated from http://smart.embl-heidelberg.de/smart/domain_table.cgi
+
+9. words
+
+    List of English words
+
+####### FILES TO DOWNLOAD ######
+
+1. BIOGRID-ALL-3.2.112.tab.txt
+   
+   Download available from http://thebiogrid.org/download.php
+   See BIOGRID download page for file description.
+
+2. chea-background.csv
+
+   Download available from http://amp.pharm.mssm.edu/lib/cheadownload.jsp
+   See ChEA download page for file description.
+
+3. drugs.tsv
+
+   Download available from https://www.pharmgkb.org/downloads/
+   See PharmGKB download page for file description.
+
+4. genes.tsv
+
+   Download available from https://www.pharmgkb.org/downloads/
+   See PharmGKB download page for file description.
